@@ -7,7 +7,6 @@ Currently working as a **MERN Stack Trainer at K.R. Mangalam University**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=I+build+responsive+web+apps;I+love+React+%2F+Node.js;Full-Stack+Web+Developer;Open+to+Internships+%2F+Projects" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=I+build+responsive+web+apps;I+love+React+%2F+Node.js;Full-Stack+Web+Developer;Open+to+Development+%2F+Projects" alt="Typing SVG" />
 </p>
 
 ## Tech Stack
