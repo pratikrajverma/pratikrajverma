@@ -6,7 +6,8 @@ I’m passionate about building modern web applications and helping students lea
 Currently working as a **MERN Stack Trainer at K.R. Mangalam University**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=I+build+responsive+web+apps;I+love+React+%2F+Node.js;Full-Stack+Web+Developer;Open+to+Internships+%2F+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=550&lines=Hi+There+%F0%9F%91%8B+I'm+Pratik+Raj+Verma;MERN+Stack+Trainer+%40+K.R.+Mangalam+University;Building+Next-Gen+Developers;Always+Learning+%26+Innovating" alt="Typing SVG" />
+
 </p>
 
 ## Tech Stack
