@@ -24,6 +24,6 @@ Want to <strong>level up your coding skills</strong> and become a professional f
  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratik_op&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pratik raj verma&theme=tokyonight&hide_border=true" />
 </p>
 
