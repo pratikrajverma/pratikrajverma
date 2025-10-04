@@ -27,3 +27,14 @@ Want to <strong>level up your coding skills</strong> and become a professional f
   <img src="https://streak-stats.demolab.com?user=pratikrajverma&theme=tokyonight&hide_border=true" />
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratikrajverma&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pratikrajverma?style=flat-square" alt="Followers" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikrajverma&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+
