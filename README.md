@@ -10,8 +10,9 @@ Want to <strong>level up your coding skills</strong> and become a professional f
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=950&lines=Hi+There+%F0%9F%91%8B+I'm+Pratik+Raj+Verma;MERN+Stack+Trainer;Building+Next-Gen+Developers;Always+Learning+%26+Innovating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Hi+There+%F0%9F%91%8B+I'm+Pratik+Raj+Verma;MERN+Stack+Trainer;Building+Next-Gen+Developers;Always+Learning+%26+Innovating" alt="Typing SVG" />
 </p>
+
 
 
 ## Tech Stack
